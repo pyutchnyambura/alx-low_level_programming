@@ -1,6 +1,6 @@
 /*
  * File: 5-sqrt_recursion.c
- * Auth: clarence songore
+ * Auth: purity nyambura
 */
 #include "holberton.h"
 int find_sqrt(int num, int root);
